@@ -27,8 +27,8 @@ CCCDLogin là một giải pháp mã nguồn mở bằng C++ giúp biến thẻ 
 ## 📦 Hướng dẫn cài đặt nhanh
 
 1. Tải thư mục ứng dụng đã được biên dịch sẵn.
-2. Nhấp chuột phải vào file `CCCDSetup.exe` ➔ Chọn **Run as administrator**.
-3. Cắm thẻ CCCD của bạn vào khe đọc thẻ khi chương trình yêu cầu.
+2. Cắm thẻ CCCD của bạn vào khe đọc thẻ.
+3. Nhấp chuột phải vào file `CCCDSetup.exe` ➔ Chọn **Run as administrator**.
 4. Chọn **`y`** khi được hỏi muốn bật tính năng tự động mở máy không, sau đó nhập mật khẩu Windows của bạn (các ký tự sẽ hiển thị dưới dạng ẩn `****`).
 5. Đợi chương trình thông báo cài đặt hoàn tất và **Khởi động lại máy (Restart)**.
 
@@ -78,8 +78,8 @@ CCCDLogin is an open-source C++ solution that turns your chip-based Vietnamese I
 ## 📦 Setup & Usage
 
 1. Download the pre-compiled binaries folder.
-2. Right-click `CCCDSetup.exe` ➔ Select **Run as administrator**.
-3. Insert your CCCD card into the reader when prompted.
+2. Insert your identity card into the reader
+3. Right-click `CCCDSetup.exe` ➔ Select **Run as administrator**.
 4. Type `y` to enable instant auto-login and input your Windows password (masked with `****`).
 5. Restart your computer.
 
